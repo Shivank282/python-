@@ -1,0 +1,15 @@
+# Ignore Python bytecode files
+*.pyc
+_pycache_/
+
+# Ignore log files
+*.log
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore specific folders (e.g., 'File Handling' folder)
+File Handling/
+
+# Ignore secret configuration files (example)
+secret_config.py
